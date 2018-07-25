@@ -1,0 +1,12 @@
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\bin\Debug\AdventOfCode_two.exe.config
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\bin\Debug\AdventOfCode_two.exe
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\bin\Debug\AdventOfCode_two.pdb
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\obj\Debug\AdventOfCode_two.csprojResolveAssemblyReference.cache
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\obj\Debug\AdventOfCode_two.exe
+c:\users\siya\documents\visual studio 2015\Projects\AdventOfCode_two\AdventOfCode_two\obj\Debug\AdventOfCode_two.pdb
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\bin\Debug\AdventOfCode_two.exe.config
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\obj\Debug\AdventOfCode_two.exe
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\obj\Debug\AdventOfCode_two.pdb
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\bin\Debug\AdventOfCode_two.exe
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\bin\Debug\AdventOfCode_two.pdb
+D:\dzain\advent\Day1\AdventOfCode_three\AdventOfCode_two\obj\Debug\AdventOfCode_two.csprojResolveAssemblyReference.cache
